@@ -14,3 +14,7 @@ Python implementations for algorithmic bioinformatics problems from the [Rosalin
 - `MPRT` - Finding a Protein Motif
 - `MRNA` - Inferring mRNA from Protein
 - `ORF` - Open Reading Frames
+- `PERM` - Enumerating Gene Orders
+- `PRTM` - Calculating Protein Mass
+- `REVP` - Locating Restriction Sites
+- `SPLC` - RNA Splicing
