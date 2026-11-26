@@ -18,3 +18,5 @@ Python implementations for algorithmic bioinformatics problems from the [Rosalin
 - `PRTM` - Calculating Protein Mass
 - `REVP` - Locating Restriction Sites
 - `SPLC` - RNA Splicing
+- `LEXF` - Enumerating k-mers Lexicographically
+- `LGIS` - Longest Increasing Subsequence
